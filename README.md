@@ -1,6 +1,6 @@
 # 🦠 COVID-19 Data Analysis in MySQL
 
-This project demonstrates **data cleaning, transformation, and analytical querying** of global COVID-19 datasets using **MySQL 8.0+**. It showcases advanced SQL concepts such as **window functions**, **CTEs**, **temporary tables**, **Subqueries**, **joins**, and **views** — all designed as a portfolio project for data analytics and database development roles.
+Designed as a portfolio project for data analytics and database development roles, this project showcases **data cleaning**, **transformation**, and **analytical querying** of global COVID-19 datasets using **MySQL 8.0+**. It applies advanced SQL concepts including **window functions**, **CTEs**, **temporary tables**, **subqueries**, **joins**, and **views**.
 
 ---
 
