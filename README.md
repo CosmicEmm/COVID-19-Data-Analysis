@@ -28,9 +28,7 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 ## 🧰 Tools & Technologies
 
 - **MySQL 8.0+** — Database & SQL engine  
-- **SQL Workbench / MySQL CLI** — Query execution  
-- **Python 3.x** *(optional)* — For data visualization or export analysis  
-- **Pandas**, **mysql-connector-python**, **SQLAlchemy**
+- **MySQL Workbench / MySQL CLI** — Query execution  
 
 ---
 
