@@ -21,8 +21,8 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 
 | Folder / File | Description |
 |----------------|-------------|
-| `COVID-19.sql` | Main SQL script — includes data cleaning, joins, and analytical queries. |
-| `data/` | Contains input CSV files (`deaths.csv`, `vaccinations.csv`). |
+| `COVID-19.sql` | Main SQL script that includes data cleaning, joins, and analytical queries. |
+| `data/` | Contains input CSV files (`deaths.csv`, `vaccinations.csv`) |
 
 ---
 
