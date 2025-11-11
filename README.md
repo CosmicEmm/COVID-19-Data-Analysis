@@ -36,5 +36,5 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/COVID19-MySQL-Analysis.git
-   cd COVID19-MySQL-Analysis
+   git clone https://github.com/<your-username>/COVID-19-Data-Analysis.git
+   cd COVID-19-Data-Analysis
