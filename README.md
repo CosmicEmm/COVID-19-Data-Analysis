@@ -2,7 +2,7 @@
 
 This project showcases **data cleaning**, **transformation**, and **analytical querying** of global COVID-19 datasets using **MySQL 8.0+**. It applies advanced SQL concepts such as **window functions**, **CTEs**, **temporary tables**, **subqueries**, **joins**, and **views**.
 
-## 📚 Overview
+## 🚀 Features
 
 The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statistics, then performs:
 
