@@ -1,7 +1,7 @@
 # 🦠 COVID-19 Data Analysis in MySQL
 
 This project demonstrates **data cleaning, transformation, and analytical querying** of global COVID-19 datasets using **MySQL 8.0+**.  
-It showcases advanced SQL concepts such as **window functions**, **CTEs**, **temporary tables**, and **views** — all designed as a portfolio project for data analytics and database development roles.
+It showcases advanced SQL concepts such as **window functions**, **CTEs**, **temporary tables**, **Subqueries**, **joins**, and **views** — all designed as a portfolio project for data analytics and database development roles.
 
 ---
 
@@ -21,12 +21,8 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 
 | Folder / File | Description |
 |----------------|-------------|
-| `SQL/COVID-19.sql` | Main SQL script — includes schema definitions, data cleaning, joins, and analytical queries. |
+| `COVID-19.sql` | Main SQL script — includes data cleaning, joins, and analytical queries. |
 | `data/` | Contains input CSV files (`deaths.csv`, `vaccinations.csv`). |
-| `notebooks/` | Optional Jupyter Notebook for visualizing or extending analysis in Python. |
-| `exports/` | Folder for saving exported results from queries. |
-| `.gitignore` | Ignores system files, caches, and large datasets. |
-| `requirements.txt` | Python dependencies (optional integration). |
 
 ---
 
