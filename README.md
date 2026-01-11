@@ -1,8 +1,8 @@
-# 🦠 COVID-19 Data Analysis in MySQL
+# COVID-19 Data Analysis in MySQL
 
 This project showcases **data cleaning**, **transformation**, and **analytical querying** of global COVID-19 datasets using **MySQL 8.0+**. It applies advanced SQL concepts such as **window functions**, **CTEs**, **temporary tables**, **subqueries**, **joins**, and **views**.
 
-## 🚀 Features
+## Features
 
 The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statistics, then performs:
 
@@ -11,7 +11,7 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 - Time-series analysis using **rolling sums**
 - Creation of reusable **views** for dashboards or BI tools
 
-## 📈 Key SQL Concepts Demonstrated
+## Key SQL Concepts Demonstrated
 
 - `JOIN` on multiple datasets (deaths ↔ vaccinations)
 - `SUM() OVER (PARTITION BY … ORDER BY …)` — window functions
@@ -21,26 +21,26 @@ The dataset combines worldwide COVID-19 **deaths** and **vaccinations** statisti
 - `GROUP BY`, `MAX()`, `DELETE`, and `ALTER TABLE` examples
 - `LOAD DATA LOCAL INFILE` for bulk imports
 
-## 🏗️ Project Structure
+## Project Structure
 
 | Folder / File | Description |
 |----------------|-------------|
 | `COVID-19.sql` | Main SQL script that includes data cleaning, joins, and analytical queries. |
 | `data/` | Contains input CSV files (`deaths.csv`, `vaccinations.csv`) |
 
-## 🧰 Tools & Technologies
+## Tools & Technologies
 
 - **MySQL 8.0+** — Database & SQL engine  
 - **MySQL Workbench / MySQL CLI** — Query execution  
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/<your-username>/COVID-19-Data-Analysis.git
    cd COVID-19-Data-Analysis
 
-## 🧑‍💻 Author
+## Author
 
 Muhammad
 
